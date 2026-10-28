@@ -1,1 +1,1 @@
-Original text for conflict practice
+Text changed by feature B
