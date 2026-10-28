@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Text changed by feature B
-=======
-Text changed by feature A
->>>>>>> feature/conflict-a
+Resolved text: feature A and feature B changes combined
